@@ -9,33 +9,16 @@ ini adalah tampilan dari projectnya
 <img src="https://i.imgur.com/ryB5oAO.png" alt="Splash Screen" >
 
 
-### Home
+### Sign Up
 <p><br></p>
-<img src="https://i.imgur.com/WTgoDgj.png" alt="Splash Screen" >
+<img src="https://i.imgur.com/qBWCawg.png" alt="Splash Screen" >
 
-### Search
+### Tambah Data
 <p><br></p>
-<img src="https://i.imgur.com/E0Rxaku.png" alt="Search" >
+<img src="https://i.imgur.com/sGPDl0Z.png" alt="Search" >
 
-### Favorit
+### Pembayaran
 <p><br></p>
-<img src="https://i.imgur.com/dS11wf8.png" alt="favroit" >
+<img src="https://i.imgur.com/UA5yUs6.png" alt="pembayaran" >
 
-### Detail
-<p><br></p>
-<img src="https://i.imgur.com/Gnl8qFI.png" alt="detail" >
-
-### Setting
-<p><br></p>
-<img src="https://imgur.com/x6lMOHG.gif" alt="Setting">
-
-# Favorit (Content Provider)
-<br><br>
-### Home
-<p><br></p>
-<img src="https://i.imgur.com/7zEWAMI.png" alt="home">
-
-### Detail
-<p><br></p>
-<img src="https://i.imgur.com/dXeJ0LU.png" alt="detail">
 
