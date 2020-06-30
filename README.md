@@ -6,7 +6,7 @@ ini adalah tampilan dari projectnya
 
 ### login
 <p><br></p>
-<img src="https://imgur.com/a/QQEAkmm" alt="Splash Screen" >
+<img src="https://imgur.com/QQEAkmm" alt="Splash Screen" >
 
 
 ### Home
